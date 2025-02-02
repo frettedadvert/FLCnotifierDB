@@ -1,5 +1,33 @@
 [
     {
+        "title": "BIM-Planungsleistungen (Objektplanung Verkehrsanlagen, Technische Ausr\u00fcstung) zur Erneuerung der Verkehrsstationen Kaulsdorf (Saale; Bahnhof Nr.: 3144) sowie Breternitz (Bahnhof Nr.: 873) der Strecke 6383 Leipzig-Leutzsch - Probstzella",
+        "date": "07.03.25, 09:00"
+    },
+    {
+        "title": "Migration des ESTW im Bf M\u00fchldorf (Obb.) | ABS 38 |PFA2.2 Lph 1/2 + Lph 3. Kein BIM-Projekt. Migration des vorhandenen ESTW M\u00fchldorf (Obb.) in Bauzust\u00e4nden von SIMIS-C nach SIMIS-D unter Ber\u00fccksichtigung des Zielzustandes Elektrifizierung und ...",
+        "date": "03.03.25, 10:00"
+    },
+    {
+        "title": "24FEI77161 B\u00dcW Kabeltiefbau u. Signalgr\u00fcndung im Bf D\u00fcsseldorf-Derendorf",
+        "date": "03.03.25, 09:00"
+    },
+    {
+        "title": "BIM- Planung E\u00dc Wiesenstra\u00dfe LPH 1-4 + opt. LPH 6-7",
+        "date": "04.03.25, 12:00"
+    },
+    {
+        "title": "Erneuerung Eisenbahn\u00fcberf\u00fchrung Bochum Langendreerstra\u00dfe (Strecke 2140) Bau\u00fcberwachungsleistungen (B\u00dcW) Grundleistungen: bauvertraglich/fachtechnische Leistung bei Verkehrsanlagen Eisenbahnbetriebliche Leistungen Bauaufsichtliche Leistungen nach VV BAU ...",
+        "date": "03.03.25, 10:00"
+    },
+    {
+        "title": "Ersatzneubau E\u00dc Hamburger Stra\u00dfe mit Hp. Dresden Cotta, km 2,182 Strecke 6248 inkl. Stra\u00dfenbau, Stra\u00dfenbahn und Medienumverlegung im Kreuzungsbereich sowie weiterer Zusammenhangsleistungen",
+        "date": "09.04.25, 08:00"
+    },
+    {
+        "title": "Im Rahmen des DSD Starterpakets Scan.-Med. soll der Korridor Scan-Med mit ETCS-DSTW ausger\u00fcstet werden. Die ausgeschriebene Planung soll hier die Ausr\u00fcstung der LST-Technik mit DSTW sowie die Ausr\u00fcstung mit ETCS Level 2 ohne Signale im Knoten F\u00fcrth ...",
+        "date": "03.03.25, 11:00"
+    },
+    {
         "title": "konventionelles Umbauverfahren inkl. PSS, Sicherungsleistungen - W564: Radius 190, L\u00e4nge ca. 68m - W567: Radius 190, L\u00e4nge ca. 68m - W515: Radius 190, L\u00e4nge ca. 68m - W516: Radius 300, L\u00e4nge ca. 81m - W517: Radius 190, L\u00e4nge ca. 68m - W518: Radius 190, ...",
         "date": "17.02.25, 14:00"
     },
@@ -10,33 +38,5 @@
     {
         "title": "Gleiserneuerung M\u00fcnchen-Mittersendling Strecke 5505 Los 1: GE M\u00fcnchen-Mittersendling -M\u00fcnchen Heimeranplatz inkl. Kreuzungsbauwerk beidseitig Los 2: GE M\u00fcnchen-Mittersendling Gleis 2",
         "date": "04.03.25, 09:30"
-    },
-    {
-        "title": "Bauleistung 3 B\u00dc / 2 Strecke 1722 / 1 Strecke 1902",
-        "date": "05.03.25, 09:00"
-    },
-    {
-        "title": "Gleiserneuerung Eu\u00dfenheim - Wernfeld Strecke 5230 km 28,480 - 32,94;",
-        "date": "20.03.25, 09:30"
-    },
-    {
-        "title": "ABS 38 Abschnitt West Terminplanung Erstellung einer Terminplanung PFA 1.1 - 1.3, PFA 1.5 - 1.7, PFA 4.1 Aufteilung in 5 Lose",
-        "date": "03.03.25, 11:00"
-    },
-    {
-        "title": "ETCS-Funktionserweiterung von BL2 auf BL3 im Knoten Erfurt Verkehrsanlagen Befahrbarkeitsbel\u00e4ge",
-        "date": "10.03.25, 11:00"
-    },
-    {
-        "title": "BIM Bau\u00fcberwachung der Ma\u00dfnahme POS S\u00fcd PfA 2 (Strecke 4260 Kehl-Appenweier); 3 Lose: Los 1, POS S\u00fcd, PfA 2: B\u00dcB Ob, B\u00dcB LST, B\u00dcB OLA, B\u00dcB TK, Abfallmanagement, Geotechnische B\u00dcW Los 2, POS S\u00fcd, PfA 2: SiGeKo Los 3, POS S\u00fcd, PfA 2: Umwelttechnische ...",
-        "date": "07.03.25, 11:00"
-    },
-    {
-        "title": "Das ESTW-A Gro\u00df Karben wurde an der Strecke 3900 Kassel - Frankfurt am Main, km 178,463, errichtet. Im Zuge der Restarbeiten soll der provisorische Kunststoffkabelkanal vom km 177,080 bis zum 177,710 durch einen Betonkabelkanal ersetzt werden. Im ...",
-        "date": "07.03.25, 09:00"
-    },
-    {
-        "title": "Erneuerung der Weichen 540, 750 - 754 im S-Bf. Berlin-Spandau.",
-        "date": "03.03.25, 11:00"
     }
 ]
