@@ -1,3 +1,8 @@
 {
-    "https://bieterportal.noncd.db.de/evergabe.bieter/eva/supplierportal/portal/tabs/vergaben": []
+    "https://bieterportal.noncd.db.de/evergabe.bieter/eva/supplierportal/portal/tabs/vergaben": [
+        {
+            "title": "Es ist die ETCS-Ausr\u00fcstung im Rahmen des Projekts \"ETCS-Ausr\u00fcstung Berliner Au\u00dfenring\" zu realisieren. Im Zuge dessen sind vorlaufend die stellwerksseitigen Voraussetzung f\u00fcr ETCS (ETCS-ready) umzusetzen. Hierf\u00fcr wird eine Projektsteuerung ben\u00f6tigt zur ...",
+            "date": "21.03.25, 10:00"
+        }
+    ]
 }
